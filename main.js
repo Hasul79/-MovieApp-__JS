@@ -1,6 +1,6 @@
 const API_KEY = "87a77bbf-ebc1-440a-a8ca-5d6a1199489b";
 const API_URL_POPULAR =
-'https://kinopoiskapiunofficial.tech/api/v2.2/films/top?type=TOP_100_POPULAR_FILMS&page=1  ';
+'https://kinopoiskapiunofficial.tech/api/v2.2/films/top?type=TOP_100_POPULAR_FILMS&page=1';
 const API_URL_SEARCH =
   "https://kinopoiskapiunofficial.tech/api/v2.1/films/search-by-keyword?keyword=";
 
